@@ -13,3 +13,4 @@ Part 1:
          the the existing site.css with the given css file in blackboard.Then updated the filename from bootstrap.min.css to bootstrap.css and also changed
          the light to dark and bg-white to bg-primary and also removed the text dark from line 23 & 25. Also, updated _LoginPartial.cshtml file by removing
          text-dark from it. Run the file and it works.
+5:25pm - As i am doing the assignment in college lab so now going to home and will prepare my food and then start again.
