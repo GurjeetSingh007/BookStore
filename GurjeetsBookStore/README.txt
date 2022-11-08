@@ -20,3 +20,4 @@ Part 1:
 1:57am - I Changed nav link name ‘Dropdown’ to ‘Content Management’ in _Layout.cshtml file.   
 2:05am - I feel little sleepy and I am taking a little break and having a coffee. 
 2.20am - I start working on adding projects. I added three new projects and give name GurjeetsBooks.DataAccess, GurjeetsBooks.Models GurjeetsBooks.Utility .
+2.30am - I Copied the 'Data' folder and paste to .DataAccess project and delete the origanal 'Data' folder.
