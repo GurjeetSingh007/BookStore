@@ -1,6 +1,6 @@
 using System;
 
-namespace GurjeetsBookStore.Models
+namespace GurjeetsBookStore.ViewModels
 {
     public class ErrorViewModel
     {

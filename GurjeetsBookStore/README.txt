@@ -30,3 +30,10 @@ Part 1:
 3.57am - In ApplicationDbcontext.cs File, I modified namespace to reflect the project.
 4:03am - I deleted all default Class1.cs files in all three projects.
 4:19am - After building Project, I got four errors. Some errors are in Startup.cs file. Now, i am trying to solve these.
+4:30am - I moved Models in to GurjeetsBooks.Models and then i deleted original Models folder.
+4:32am - In Error.cshtml, i modified namespace with ViewModels.
+4.37am - In project, i added reference to .DataAccess and .Models .
+
+
+
+
