@@ -28,3 +28,4 @@ Part 1:
 3.47am - I deleted the Migrations folder in Data folder.
 3.51am - In DataAccess, I added NuGet package.
 3.57am - In ApplicationDbcontext.cs File, I modified namespace to reflect the project.
+4:03am - I deleted all default Class1.cs files in all three projects.
