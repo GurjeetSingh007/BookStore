@@ -15,3 +15,6 @@ Part 1:
          text-dark from it. Run the file and it works.
 5:25pm - As i am doing the assignment in college lab so now going to home and will prepare my food and then start again.
 1:05am - After a long break, I again start working on assignment. I added additional stylesheets and scripts from the CSS_JS.txt file in _Layout.cshtml. 
+1:37am - I Added a dropdown to the NavBar in _Layout.cshtml file. Then, i am going to check in browser but it shows run time error. After that, i checked 
+         and realize that i am using folder view and i changed it with solution view. I bulid again and now, it works in browser.
+         
