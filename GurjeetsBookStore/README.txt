@@ -14,3 +14,4 @@ Part 1:
          the light to dark and bg-white to bg-primary and also removed the text dark from line 23 & 25. Also, updated _LoginPartial.cshtml file by removing
          text-dark from it. Run the file and it works.
 5:25pm - As i am doing the assignment in college lab so now going to home and will prepare my food and then start again.
+1:05am - After a long break, I again start working on assignment. I added additional stylesheets and scripts from the CSS_JS.txt file in _Layout.cshtml. 
