@@ -21,3 +21,7 @@ Part 1:
 2:05am - I feel little sleepy and I am taking a little break and having a coffee. 
 2.20am - I start working on adding projects. I added three new projects and give name GurjeetsBooks.DataAccess, GurjeetsBooks.Models GurjeetsBooks.Utility .
 2.30am - I Copied the 'Data' folder and paste to .DataAccess project and delete the origanal 'Data' folder.
+2:56am - I got an error because Relational framework version 7.0.0 is not compatible with .net version 3.1 .
+        (Package Microsoft.EntityFrameworkCore.Relational 7.0.0 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1)).
+        Now, finding the compatible version.
+3:35am - I found the compatible version which is 3.1.16 and then I installed Microsoft.EntityFrameworkCore.Relational and Core.SqlServer packages.
