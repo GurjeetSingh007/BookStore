@@ -34,6 +34,7 @@ Part 1:
 4:32am - In Error.cshtml, i modified namespace with ViewModels.
 4.37am - In project, i added reference to .DataAccess and .Models .
 4:48am - I Rename Models folder name to ViewModels and changed namespace in ErrorViewModel.cs file.
+4:53am = Modified the Data field to DtaAccess in Startup.cs file.
 
 
 
