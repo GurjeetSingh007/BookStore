@@ -33,6 +33,7 @@ Part 1:
 4:30am - I moved Models in to GurjeetsBooks.Models and then i deleted original Models folder.
 4:32am - In Error.cshtml, i modified namespace with ViewModels.
 4.37am - In project, i added reference to .DataAccess and .Models .
+4:48am - I Rename Models folder name to ViewModels and changed namespace in ErrorViewModel.cs file.
 
 
 
