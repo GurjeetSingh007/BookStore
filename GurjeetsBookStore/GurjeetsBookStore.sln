@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurjeetsBookStore", "GurjeetsBookStore.csproj", "{6302A06F-E87E-47A0-9214-8676D1F650EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GurjeetsBookStore", "GurjeetsBookStore.csproj", "{6302A06F-E87E-47A0-9214-8676D1F650EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurjeetsBooks.DataAccess", "..\GurjeetsBooks.DataAccess\GurjeetsBooks.DataAccess.csproj", "{DDB690DC-6AE7-40AD-A5EF-C2CA8C30DC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurjeetsBooks.Models", "..\GurjeetsBooks.Models\GurjeetsBooks.Models.csproj", "{E92AF3E9-03E5-4FF9-9442-7E2D89E2741D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurjeetsBooks.Utility", "..\GurjeetsBooks.Utility\GurjeetsBooks.Utility.csproj", "{9BCA73F3-404F-4D3B-9C28-4B2AA471B7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{6302A06F-E87E-47A0-9214-8676D1F650EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6302A06F-E87E-47A0-9214-8676D1F650EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6302A06F-E87E-47A0-9214-8676D1F650EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB690DC-6AE7-40AD-A5EF-C2CA8C30DC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB690DC-6AE7-40AD-A5EF-C2CA8C30DC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB690DC-6AE7-40AD-A5EF-C2CA8C30DC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB690DC-6AE7-40AD-A5EF-C2CA8C30DC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92AF3E9-03E5-4FF9-9442-7E2D89E2741D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92AF3E9-03E5-4FF9-9442-7E2D89E2741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92AF3E9-03E5-4FF9-9442-7E2D89E2741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92AF3E9-03E5-4FF9-9442-7E2D89E2741D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCA73F3-404F-4D3B-9C28-4B2AA471B7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCA73F3-404F-4D3B-9C28-4B2AA471B7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCA73F3-404F-4D3B-9C28-4B2AA471B7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCA73F3-404F-4D3B-9C28-4B2AA471B7A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

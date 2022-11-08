@@ -18,3 +18,5 @@ Part 1:
 1:37am - I Added a dropdown to the NavBar in _Layout.cshtml file. Then, i am going to check in browser but it shows run time error. After that, i checked 
          and realize that i am using folder view and i changed it with solution view. I bulid again and now, it works in browser.
 1:57am - I Changed nav link name ‘Dropdown’ to ‘Content Management’ in _Layout.cshtml file.   
+2:05am - I feel little sleepy and I am taking a little break and having a coffee. 
+2.20am - I start working on adding projects. I added three new projects and give name GurjeetsBooks.DataAccess, GurjeetsBooks.Models GurjeetsBooks.Utility .
