@@ -17,4 +17,4 @@ Part 1:
 1:05am - After a long break, I again start working on assignment. I added additional stylesheets and scripts from the CSS_JS.txt file in _Layout.cshtml. 
 1:37am - I Added a dropdown to the NavBar in _Layout.cshtml file. Then, i am going to check in browser but it shows run time error. After that, i checked 
          and realize that i am using folder view and i changed it with solution view. I bulid again and now, it works in browser.
-         
+1:57am - I Changed nav link name ‘Dropdown’ to ‘Content Management’ in _Layout.cshtml file.   
