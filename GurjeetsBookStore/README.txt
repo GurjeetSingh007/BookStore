@@ -27,3 +27,4 @@ Part 1:
 3:35am - I found the compatible version which is 3.1.16 and then I installed Microsoft.EntityFrameworkCore.Relational and Core.SqlServer packages.
 3.47am - I deleted the Migrations folder in Data folder.
 3.51am - In DataAccess, I added NuGet package.
+3.57am - In ApplicationDbcontext.cs File, I modified namespace to reflect the project.
