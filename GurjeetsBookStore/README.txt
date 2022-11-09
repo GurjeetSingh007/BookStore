@@ -40,4 +40,5 @@ Part 1:
 4:32pm - I understood my errors and its time to fix it. In Error.cshtml file i have two error. First was line break error in model and second was 
          model path was short for ErrorViewModel. 
 4:49pm - For fixing errors in Error.cshtml file i modified the model path and fixed line break in model.
-
+5:15pm - I fixed the third error which was in _ViewImports.cshtml file. Because, i changed the Model folder name. Due to which, i changed 
+         models with ViewModels for reference.
