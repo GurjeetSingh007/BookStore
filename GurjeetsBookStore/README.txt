@@ -36,7 +36,8 @@ Part 1:
 4:48am - I Rename Models folder name to ViewModels and changed namespace in ErrorViewModel.cs file.
 4:53am - Modified the Data field to DtaAccess in Startup.cs file.
 4:56am - Changed THE Reference Of ViewModels in Homecontroller.cs.
-
-
-
+4:20pm - Next day, I am trying to understand my errors why i got these errors.
+4:32pm - I understood my errors and its time to fix it. In Error.cshtml file i have two error. First was line break error in model and second was 
+         model path was short for ErrorViewModel. 
+4:49pm - For fixing errors in Error.cshtml file i modified the model path and fixed line break in model.
 
