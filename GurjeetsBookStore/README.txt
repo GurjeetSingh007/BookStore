@@ -64,5 +64,7 @@ Part 1:
 4:04pm - I modified _viewstart.cshtml file for reflecting new path.
 4:06pm - Finally, i run the application and its working without any error.
 4:16pm - In Area, i added a new area for Admin.
+4.30pm - I copied and added view files and Afterthat, I deleted Data and Models folder and deleted controllers folder too.
+4:32pm - I builed the application and test. It works without any error.
 
 
