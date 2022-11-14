@@ -45,5 +45,7 @@ Part 1:
 
 13:11:2022
 
-8:30pm - In the utility project, I created detailed static class and named SD.cs and i modified its properties with public static.Then i added 
+8:40pm - In the utility project, I created detailed static class and named SD.cs and i modified its properties with public static.Then i added 
          reference to main project and in DataAccess project, i gave reference to models and utility. 
+8:52pm - I added customer area with MVC area to Areas.
+8:58pm - I changed the routes in startup.cs file in the ScaffoldingReadMe.txt file.
