@@ -74,4 +74,5 @@ Part 2:
 4:55pm - I got an error (Your target project 'GurjeetsBookStore' doesn't match your migrations assembly 'GurjeetsBooks.DataAccess'.)
 4:56pm - To solve this error, i changed project 'GurjeetsBookStore' to default project 'GurjeetsBooks.DataAccess'. I tested the app and it worked.
 5:07pm - Added new migration file and its name is '20221114220513_AddDefaultIdentityMigration.cs'.
-
+5:18pm - After completing migration, i updated datbase with command 'update-database'.
+5:20pm - I reviewed all files and folder in updated datbase. I tested application and it worked.
