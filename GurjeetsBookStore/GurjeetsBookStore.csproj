@@ -19,6 +19,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GurjeetsBooks.DataAccess\GurjeetsBooks.DataAccess.csproj" />
     <ProjectReference Include="..\GurjeetsBooks.Models\GurjeetsBooks.Models.csproj" />
+    <ProjectReference Include="..\GurjeetsBooks.Utility\GurjeetsBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>

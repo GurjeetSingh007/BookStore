@@ -42,3 +42,8 @@ Part 1:
 4:49pm - For fixing errors in Error.cshtml file i modified the model path and fixed line break in model.
 5:15pm - I fixed the third error which was in _ViewImports.cshtml file. Because, i changed the Model folder name. Due to which, i changed 
          models with ViewModels for reference.
+
+13:11:2022
+
+8:30pm - In the utility project, I created detailed static class and named SD.cs and i modified its properties with public static.Then i added 
+         reference to main project and in DataAccess project, i gave reference to models and utility. 
