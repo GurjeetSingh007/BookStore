@@ -76,3 +76,5 @@ Part 2:
 5:07pm - Added new migration file and its name is '20221114220513_AddDefaultIdentityMigration.cs'.
 5:18pm - After completing migration, i updated datbase with command 'update-database'.
 5:20pm - I reviewed all files and folder in updated datbase. I tested application and it worked.
+5:39pm - I add a new class in .models and added a migration via console with command 'add-migration AddCategoryToDb'.
+5:50pm - In ApplicationDbContext.cs file, I added category model in database.
