@@ -14,6 +14,9 @@ Part 1:
          the light to dark and bg-white to bg-primary and also removed the text dark from line 23 & 25. Also, updated _LoginPartial.cshtml file by removing
          text-dark from it. Run the file and it works.
 5:25pm - As i am doing the assignment in college lab so now going to home and will prepare my food and then start again.
+
+8:11:2022
+
 1:05am - After a long break, I again start working on assignment. I added additional stylesheets and scripts from the CSS_JS.txt file in _Layout.cshtml. 
 1:37am - I Added a dropdown to the NavBar in _Layout.cshtml file. Then, i am going to check in browser but it shows run time error. After that, i checked 
          and realize that i am using folder view and i changed it with solution view. I bulid again and now, it works in browser.
@@ -40,7 +43,7 @@ Part 1:
 4:32pm - I understood my errors and its time to fix it. In Error.cshtml file i have two error. First was line break error in model and second was 
          model path was short for ErrorViewModel. 
 4:49pm - For fixing errors in Error.cshtml file i modified the model path and fixed line break in model.
-5:15pm - I fixed the third error which was in _ViewImports.cshtml file. Because, i changed the Model folder name. Due to which, i changed 
+5:15pm - I fixed the third error which was in _ViewImports.cshtml file. Because, i changed the Model folder name. Due3to which, i changed 
          models with ViewModels for reference.
 
 13:11:2022
@@ -50,3 +53,15 @@ Part 1:
 8:52pm - I added customer area with MVC area to Areas.
 8:58pm - I changed the routes in startup.cs file in the ScaffoldingReadMe.txt file.
 9:04pm - I moved HomeController.cs file to Area > Customer > Controllers folder and i deleted Data and Models folder.
+
+14:11:2022
+
+3:36pm - I started working on Assignment again.
+3:40pm - I modified HomeController.cs file for defining the explicitly in the customer area.
+3:49pm - I moved views to Home and i modified namespace in Homecontroller file.
+3:52pm - I bulid the application and then run. Index file working but it required layout file.
+3:59pm - I copied to file and that is _viewimport and _viewstart to customer area.
+4:04pm - I modified _viewstart.cshtml file for reflecting new path.
+4:06pm - Finally, i run the application and its working without any error.
+
+
