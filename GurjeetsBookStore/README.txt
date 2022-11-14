@@ -78,3 +78,4 @@ Part 2:
 5:20pm - I reviewed all files and folder in updated datbase. I tested application and it worked.
 5:39pm - I add a new class in .models and added a migration via console with command 'add-migration AddCategoryToDb'.
 5:50pm - In ApplicationDbContext.cs file, I added category model in database.
+5:59pm - I updated database and i checked that new category table is displyed in sql.
