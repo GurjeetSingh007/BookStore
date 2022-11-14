@@ -67,4 +67,11 @@ Part 1:
 4.30pm - I copied and added view files and Afterthat, I deleted Data and Models folder and deleted controllers folder too.
 4:32pm - I builed the application and test. It works without any error.
 
+Part 2:
+
+4:47pm - I tested the application for builting and it run in the browser without any error.
+4:51pm - I reviewed the appsettings.json file and I created the migration and i modified datbase name.
+4:55pm - I got an error (Your target project 'GurjeetsBookStore' doesn't match your migrations assembly 'GurjeetsBooks.DataAccess'.)
+4:56pm - To solve this error, i changed project 'GurjeetsBookStore' to default project 'GurjeetsBooks.DataAccess'. I tested the app and it worked.
+5:07pm - Added new migration file and its name is '20221114220513_AddDefaultIdentityMigration.cs'.
 
