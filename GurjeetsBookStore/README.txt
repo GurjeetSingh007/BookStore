@@ -49,3 +49,4 @@ Part 1:
          reference to main project and in DataAccess project, i gave reference to models and utility. 
 8:52pm - I added customer area with MVC area to Areas.
 8:58pm - I changed the routes in startup.cs file in the ScaffoldingReadMe.txt file.
+9:04pm - I moved HomeController.cs file to Area > Customer > Controllers folder and i deleted Data and Models folder.

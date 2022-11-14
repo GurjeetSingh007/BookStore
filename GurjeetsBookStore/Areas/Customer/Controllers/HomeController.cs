@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GurjeetsBookStore.Controllers
+namespace GurjeetsBookStore.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {
