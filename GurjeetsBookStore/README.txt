@@ -63,5 +63,6 @@ Part 1:
 3:59pm - I copied to file and that is _viewimport and _viewstart to customer area.
 4:04pm - I modified _viewstart.cshtml file for reflecting new path.
 4:06pm - Finally, i run the application and its working without any error.
+4:16pm - In Area, i added a new area for Admin.
 
 
