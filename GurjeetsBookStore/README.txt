@@ -79,3 +79,6 @@ Part 2:
 5:39pm - I add a new class in .models and added a migration via console with command 'add-migration AddCategoryToDb'.
 5:50pm - In ApplicationDbContext.cs file, I added category model in database.
 5:59pm - I updated database and i checked that new category table is displyed in sql.
+6:12pm - I created new folder and name it 'Repository' and added a new IRepository folder inside it.
+6:16pm -  I added new interface inside of IRepository folder and and name it IRepository.cs.
+6:32pm -  I modified IRepository.cs for doing all crud operations.
