@@ -96,3 +96,4 @@ Part 2:
 03:20am - Added reference as Scoped of both UnitOfwork in startup.cs
 04:28am - Created CategoryControlles file and modified to use IUnitOfWork interface
 04:39am - created index view for Category controller in Admin area and added code from the given file
+04:44am - Added link of index view from Category controller added in the dropdown of nav and privacy page link removed
