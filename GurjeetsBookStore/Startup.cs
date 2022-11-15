@@ -1,3 +1,6 @@
+using GurjeetsBooks.DataAccess.Repository;
+using GurjeetsBooks.DataAccess.Repository.IRepository;
+using GurjeetsBooks.Models;
 using GurjeetsBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -37,6 +40,7 @@ namespace GurjeetsBookStore
             // .AddEntityFrameworkStores<ApplicationDbContext>();       
 
             services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

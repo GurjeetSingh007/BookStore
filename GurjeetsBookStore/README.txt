@@ -91,3 +91,6 @@ Part 2:
 12:59am - modified category interface and added update method in categoryRepositry class
 01:28am - removed throw new exception line from category repositry
 02:08am - Created ISP_CAll interface with it's class SP_Call and implemented properties and methods of the class with connect to interface.
+03:16am - created Inter face for IUnitOWork and implemented inner properties
+03:19am - Created Class For UnitOfWork and addd potiential fix whit implementation of methods.
+03:20am - Added reference as Scoped of both UnitOfwork in startup.cs
