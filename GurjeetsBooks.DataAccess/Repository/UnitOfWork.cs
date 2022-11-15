@@ -27,14 +27,9 @@ namespace GurjeetsBooks.DataAccess.Repository
             _db.Dispose();
         }
 
-        public void Save()
-        {
-            _db.SaveChanges();
-        }
-
         public void save()
         {
-            throw new NotImplementedException();
+            _db.SaveChanges();
         }
     }
 }
