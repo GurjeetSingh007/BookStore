@@ -19,19 +19,24 @@ namespace GurjeetsBookStore.Areas.Admin.Controllers
             return View();
         }
 
-        public IActionResult Upsert(int? id)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Category category)
         {
-            Category category = new Category();
-            if (id == null)
-            {
+                if (ModelState.IsValid)
+                {
+                    if(category.Id == 0)
+                    {
+                        _unitOfWork.Category.Add(category);
+                        _unitOfWork.save();
+                    }
+                    else
+                    {
+                        _unitOfWork.Category.Update(category);
+                    }
+                }
                 return View(category);
-            }
-            category = _unitOfWork.Category.Get(id.GetValueOrDefault());
-            if (category == null)
-            {
-                return NotFound();
-            }
-            return View();
+
         }
 
         #region API CALLS
