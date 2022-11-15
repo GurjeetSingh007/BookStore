@@ -97,3 +97,4 @@ Part 2:
 04:28am - Created CategoryControlles file and modified to use IUnitOfWork interface
 04:39am - created index view for Category controller in Admin area and added code from the given file
 04:44am - Added link of index view from Category controller added in the dropdown of nav and privacy page link removed
+05:24am - Added javascript file for category in index.cshtml file. it is implementing datatable
