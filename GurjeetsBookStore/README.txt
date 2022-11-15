@@ -89,3 +89,5 @@ Part 2:
 
 12:42am - Created category repository interface with it's class.
 12:59am - modified category interface and added update method in categoryRepositry class
+01:28am - removed throw new exception line from category repositry
+02:08am - Created ISP_CAll interface with it's class SP_Call and implemented properties and methods of the class with connect to interface.
