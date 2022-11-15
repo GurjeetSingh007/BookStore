@@ -83,3 +83,8 @@ Part 2:
 6:16pm -  I added new interface inside of IRepository folder and and name it IRepository.cs.
 6:32pm -  I modified IRepository.cs for doing all crud operations.
 6:55pm - Added a new repository class in repository folder. I modified the code with help of assignment folder's  Repository file.
+
+
+15:11:2022
+
+12:42am - Created category repository interface with it's class.
