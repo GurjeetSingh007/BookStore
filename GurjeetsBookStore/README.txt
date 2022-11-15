@@ -100,7 +100,3 @@ Part 2:
 05:24am - Added javascript file for category in index.cshtml file. it is implementing datatable.
 05:27am - added js file according to slide but there is no data in the table
 05:36am - added Upsert method in category controller to add new category and created a view related to it with a form
-
-
-
-        - Corrected that upsert file error of Model.Id != 0, zero instead of null
