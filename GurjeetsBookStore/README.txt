@@ -88,3 +88,4 @@ Part 2:
 15:11:2022
 
 12:42am - Created category repository interface with it's class.
+12:59am - modified category interface and added update method in categoryRepositry class
