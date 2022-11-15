@@ -95,3 +95,4 @@ Part 2:
 03:19am - Created Class For UnitOfWork and addd potiential fix whit implementation of methods.
 03:20am - Added reference as Scoped of both UnitOfwork in startup.cs
 04:28am - Created CategoryControlles file and modified to use IUnitOfWork interface
+04:39am - created index view for Category controller in Admin area and added code from the given file
