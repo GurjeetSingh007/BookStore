@@ -28,12 +28,13 @@ namespace GurjeetsBookStore.Areas.Admin.Controllers
                     if(category.Id == 0)
                     {
                         _unitOfWork.Category.Add(category);
-                        _unitOfWork.save();
                     }
                     else
                     {
                         _unitOfWork.Category.Update(category);
                     }
+                    _unitOfWork.save();
+                return RedirectToAction(nameof(Index));
                 }
                 return View(category);
 
