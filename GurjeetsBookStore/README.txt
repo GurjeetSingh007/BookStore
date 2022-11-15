@@ -99,3 +99,4 @@ Part 2:
 04:44am - Added link of index view from Category controller added in the dropdown of nav and privacy page link removed
 05:24am - Added javascript file for category in index.cshtml file. it is implementing datatable.
 05:27am - added js file according to slide but there is no data in the table
+05:36am - added Upsert method in category controller to add new category and created a view related to it with a form
