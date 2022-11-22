@@ -2,7 +2,12 @@ Name : Gurjeet singh
 Date : 7-11-2022
 Assignment 2
 
-Part 1:
+
+                                                        Part - 1
+
+2022-11-7
+
+
          Earlier started the project but failed in initialising it in github because i just made git locally due to which remote repository is not added in it so,
          I deleted all files and now starting again.
 
@@ -15,7 +20,7 @@ Part 1:
          text-dark from it. Run the file and it works.
 5:25pm - As i am doing the assignment in college lab so now going to home and will prepare my food and then start again.
 
-8:11:2022
+2022-11-8
 
 1:05am - After a long break, I again start working on assignment. I added additional stylesheets and scripts from the CSS_JS.txt file in _Layout.cshtml. 
 1:37am - I Added a dropdown to the NavBar in _Layout.cshtml file. Then, i am going to check in browser but it shows run time error. After that, i checked 
@@ -46,7 +51,9 @@ Part 1:
 5:15pm - I fixed the third error which was in _ViewImports.cshtml file. Because, i changed the Model folder name. Due3to which, i changed 
          models with ViewModels for reference.
 
-13:11:2022
+
+2022-11-13
+
 
 8:40pm - In the utility project, I created detailed static class and named SD.cs and i modified its properties with public static.Then i added 
          reference to main project and in DataAccess project, i gave reference to models and utility. 
@@ -54,7 +61,9 @@ Part 1:
 8:58pm - I changed the routes in startup.cs file in the ScaffoldingReadMe.txt file.
 9:04pm - I moved HomeController.cs file to Area > Customer > Controllers folder and i deleted Data and Models folder.
 
-14:11:2022
+
+2022-11-14
+
 
 3:36pm - I started working on Assignment again.
 3:40pm - I modified HomeController.cs file for defining the explicitly in the customer area.
@@ -67,7 +76,10 @@ Part 1:
 4.30pm - I copied and added view files and Afterthat, I deleted Data and Models folder and deleted controllers folder too.
 4:32pm - I builed the application and test. It works without any error.
 
-Part 2:
+
+
+                                                        Part - 2
+
 
 4:47pm - I tested the application for builting and it run in the browser without any error.
 4:51pm - I reviewed the appsettings.json file and I created the migration and i modified datbase name.
@@ -85,7 +97,8 @@ Part 2:
 6:55pm - Added a new repository class in repository folder. I modified the code with help of assignment folder's  Repository file.
 
 
-15:11:2022
+2022-11-15
+
 
 12:42am - Created category repository interface with it's class.
 12:59am - modified category interface and added update method in categoryRepositry class
@@ -128,9 +141,11 @@ Part 2:
 11:00 - I saved and run the application. It runs without any error.
 
 
-Part-3
+
+                                                    Part-3
 
 2022-11-21
+
 
 11:30 - I bulid the application and test The Application.
 
@@ -139,6 +154,10 @@ Part-3
 11:42 - I added ID and Name in covertype.cs file.
 
 11:52 - I added CoverType to Repository folder.
+
+
+2022-11-22
+
 
 12:06 - I added class named CoverTypeRepository and modified.
 
@@ -149,3 +168,5 @@ Part-3
 12:36 - I created migration and update database. 
 
 12:39 - This  migration '20221122053601_AddCoverTypetoDb.cs' file is created by command.
+
+01:02 - I changed my theme as per your instruction with 'LUX'.
