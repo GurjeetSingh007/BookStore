@@ -126,3 +126,26 @@ Part 2:
 10:58 - Added delete URL function code from slide.
 
 11:00 - I saved and run the application. It runs without any error.
+
+
+Part-3
+
+2022-11-21
+
+11:30 - I bulid the application and test The Application.
+
+11:32 - I created Cover type CRUD and added CoverType.cs in Model's folder.
+
+11:42 - I added ID and Name in covertype.cs file.
+
+11:52 - I added CoverType to Repository folder.
+
+12:06 - I added class named CoverTypeRepository and modified.
+
+12:16 - Added interface named ICoverTypeRepository and changed data.
+
+12:22 - I modified UnitOfWork and IUnitofWork file for adding CoverType.
+
+12:36 - I created migration and update database. 
+
+12:39 - This  migration '20221122053601_AddCoverTypetoDb.cs' file is created by command.
