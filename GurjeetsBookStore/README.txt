@@ -116,3 +116,5 @@ Part 2:
         changed it with !=  for updating category name if its not null.  
         
 08:30 - Now it was updating category name.
+
+10:04 - Added API call HTTPDelete methodin the categoryController.cs
