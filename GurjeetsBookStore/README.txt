@@ -100,8 +100,19 @@ Part 2:
 05:24am - Added javascript file for category in index.cshtml file. it is implementing datatable.
 05:27am - added js file according to slide but there is no data in the table
 05:36am - added Upsert method in category controller to add new category and created a view related to it with a form
-9:01am - I created partial File for create form.
-9:06am - Foe edit form, i created partial file.
-9:07am - I added ASP action on create a link and modified to for use partial.
+09:01am - I created partial File for create form.
+09:06am - Foe edit form, i created partial file.
+09:07am - I added ASP action on create a link and modified to for use partial.
+09:16 - Corrected that upsert file error of Model.Id != 0, zero instead of null.
 
- - Corrected that upsert file error of Model.Id != 0, zero instead of null
+
+2022-11-21
+
+
+08:11 - Modified and added a new category in categorycontroller.cs file for edit button.
+
+08:23 - I stucked with an error. When i tried to update category name, it was not updating the category name. 
+        I tried to find where a did wrong. After a few minutes, I found that i added == in if condition then i 
+        changed it with !=  for updating category name if its not null.  
+        
+08:30 - Now it was updating category name.

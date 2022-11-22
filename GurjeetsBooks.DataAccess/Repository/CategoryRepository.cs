@@ -22,7 +22,7 @@ namespace GurjeetsBooks.DataAccess.Repository
             //use .net LINQ to retrieve the first or default category object
             // then pass the id as a generic entity which matches the categori id
             var objFromDb = _db.Categories.FirstOrDefault(s => s.Id == category.Id);
-            if (objFromDb == null) // save changes if not null
+            if (objFromDb != null) // save changes if not null
             {
                 objFromDb.Name = category.Name;
             }
