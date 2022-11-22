@@ -118,3 +118,11 @@ Part 2:
 08:30 - Now it was updating category name.
 
 10:04 - Added API call HTTPDelete methodin the categoryController.cs
+
+10:30 - I implemented the HTTPDelete with delete method in Category file.
+
+10:39 - Added onclick event to Delete functionality in Category file.
+
+10:58 - Added delete URL function code from slide.
+
+11:00 - I saved and run the application. It runs without any error.
