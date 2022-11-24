@@ -283,3 +283,8 @@ Assignment 2
 0115 - Added a new interface for IProductRepository and changed class.
 
 0123 - I added ProductRepository Class and changed update method.
+
+0136 - I addded product to IUnitofWork.cs and UnitofWork.cs files.
+
+0142 - I bulit the application and checked  i got error. It was a spealing error. i added 's' after product in IunitofWork file.
+       Then I add right words and application works in browser.
