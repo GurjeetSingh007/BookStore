@@ -297,3 +297,7 @@ Assignment 2
 0330 - I created a view model in model to hold the Product.
       
       I added a class named ProductVM. I installed  Microsoft.AspNetCore.Mvc.ViewFeatures Packge and modified its class.
+
+0349 - In product Controller file, i modified the IActionResult upsert calls to the productVM view model with using statements.
+
+0355 - For including Covertype and category properties i modified API call.
