@@ -293,3 +293,7 @@ Assignment 2
 0150 - I added a controller for product in Area>Admin> Controller.
 
 0159 - Afterthat, i added IWebHostEnvironment and changed its class to public.
+
+0330 - I created a view model in model to hold the Product.
+      
+      I added a class named ProductVM. I installed  Microsoft.AspNetCore.Mvc.ViewFeatures Packge and modified its class.
