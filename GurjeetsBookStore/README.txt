@@ -306,3 +306,8 @@ Assignment 2
 
 0402 - I added a javascriprt file product and changed its url to pointed Product.
 
+0406 - For adding product to navigation bar, I modified layout.cshtml and add link to product in nav bar.
+
+0407 - I saved and run the appliction, Its working in browser and it showing product list in browser.
+       
+       I completed two section of Part 3 and i am tired. Now, I am going to take break .
