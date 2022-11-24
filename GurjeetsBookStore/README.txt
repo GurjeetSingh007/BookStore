@@ -261,3 +261,21 @@ Assignment 2
 
 1055 - I added a controller for covertype and added all method like update and delete for covertype.
 
+1140 - I added a index file for CoverType in Area/Admin/Views.
+
+1155 - Added a upsert file and modified for CoverType.
+
+
+        2022-11-24
+
+1204 - Added Nav link for CoverType in Layout file. Then saved and run in browser.
+
+1215 - Added a new javascript file for CoverType. Then Bulit the appliction and run.
+
+       Application runs in browser and all buttons are working.
+
+1249 - I added a new class in the gurjeetbooks.model project and i set its class to public and add code that given in slide.
+
+1258 - I run a command to add a new migration for an addProductToDb and i updated the database.
+
+0105 - This new migartion file '20221124060225_addProductToDb.cs' is added.
