@@ -287,4 +287,9 @@ Assignment 2
 0136 - I addded product to IUnitofWork.cs and UnitofWork.cs files.
 
 0142 - I bulit the application and checked  i got error. It was a spealing error. i added 's' after product in IunitofWork file.
+    
        Then I add right words and application works in browser.
+
+0150 - I added a controller for product in Area>Admin> Controller.
+
+0159 - Afterthat, i added IWebHostEnvironment and changed its class to public.
