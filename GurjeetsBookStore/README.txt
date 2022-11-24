@@ -279,3 +279,7 @@ Assignment 2
 1258 - I run a command to add a new migration for an addProductToDb and i updated the database.
 
 0105 - This new migartion file '20221124060225_addProductToDb.cs' is added.
+
+0115 - Added a new interface for IProductRepository and changed class.
+
+0123 - I added ProductRepository Class and changed update method.
