@@ -301,3 +301,5 @@ Assignment 2
 0349 - In product Controller file, i modified the IActionResult upsert calls to the productVM view model with using statements.
 
 0355 - For including Covertype and category properties i modified API call.
+
+0358 - I added a index view for Product. Modified its properties and added Title/ ISBN/ Price/ Author/ .
