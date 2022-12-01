@@ -319,3 +319,27 @@ Assignment 2
 0950 - In product controller file, i added upsert method.
 1010 - Added New upsert view for product and modified.
 1030 - Modified get method in product controller and rebulit the application.
+1040 - I saved and built the application and tested. It worked well without any error.
+
+
+                                                    Part-4
+                                                    
+
+            2022-12-1
+
+
+1200 - In product.js file, I changed data columns to match with table.
+
+1201 - By adding migration to product, this file added '20221201043548_AddMorePriceToProduct.cs'.
+
+1209 - In product.cs file, A new price lists is added and set it to required.
+
+1214 - After that, I added new three input field for different price lists in upsert file.
+
+1215 - Added url for Showing image of edit page in upsert file.
+
+1217 - In product home controller file, i modified the file to sent product lists to index view for home page.
+
+1218 - In index file, Displayed all products from the list recieved.
+
+0203 - After a long break, I tested the application and it worked without any error.
